@@ -2,8 +2,8 @@
 
 An expenses tracking UI.
 
-## To install
+#### To install
 npm install
 
-## To start
+#### To start
 npm start
